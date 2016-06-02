@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Shell中$变量解释
+title: The difference of heap and stack
 category: 技术
 comments: true
 ---
