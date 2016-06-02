@@ -50,21 +50,25 @@ hello yahui ! nice !
 
 print()打印整数:
 
-	>>> print(300 + 200)
-	500
-	>>> print('300 + 200 = ', 300 + 200)
-	300 + 200 =  500
-	>>>
+```
+>>> print(300 + 200)
+500
+>>> print('300 + 200 = ', 300 + 200)
+300 + 200 =  500
+>>>
+```
 
 #####Input
 
 使用input()输入一个字符串，并且保存到一个变量中:
 
-	>>> my_name = input()
-	elvis
-	>>> print(my_name)
-	elvis
-	>>>
+```
+>>> my_name = input()
+elvis
+>>> print(my_name)
+elvis
+>>>
+```
 
 上面的代码使用input()函数接收用户输入的字符串，然后将字符串传给变量my_name.再使用print()将my_name的值打印出来.
 
@@ -72,24 +76,29 @@ print()打印整数:
 
 我们可以在input中加入一些字符，提示用户输入:
 
-	>>> my_name = input('Input your name: ' )
-	Input your name: elvis
-	>>> print("hello,", my_name)
-	hello, elvis
-	>>>
+```
+>>> my_name = input('Input your name: ' )
+Input your name: elvis
+>>> print("hello,", my_name)
+hello, elvis
+>>>
+```
 
 也可以使用文件的方式，将python写入以.py结尾的文件中:
 
-	#!/usr/bin/python3
-	#file: python-input.py
+```
+\#!/usr/bin/python3
+\#file: python-input.py
 
-	my_name = input('Input your name: ')
-	print("hello," ,my_name)
-
+my_name = input('Input your name: ')
+print("hello," ,my_name)
+```
 
 执行结果:
 
-	elvis@T430:~/github/python$ ./python-input.py
-	Input your name: elvis
-	hello, elvis
-	elvis@T430:~/github/python$
+```
+elvis@T430:~/github/python$ ./python-input.py
+Input your name: elvis
+hello, elvis
+elvis@T430:~/github/python$
+```
