@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Shell中$变量解释
-category: 技术
+category: Shell
 comments: true
 ---
 
