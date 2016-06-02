@@ -87,8 +87,8 @@ hello, elvis
 也可以使用文件的方式，将python写入以.py结尾的文件中:
 
 ```
-\#!/usr/bin/python3
-\#file: python-input.py
+#!/usr/bin/python3
+#file: python-input.py
 
 my_name = input('Input your name: ')
 print("hello," ,my_name)
