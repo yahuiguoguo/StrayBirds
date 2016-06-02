@@ -116,8 +116,8 @@ disqus:
 #################################### global configure #######################################
 
 username: elvisup
-#baseurl: /StrayBirds
-baseurl: /IceBowstring
+baseurl: /StrayBirds
+#baseurl: /IceBowstring
 markdown: redcarpet
 safe: false
 highlighter: pygments
