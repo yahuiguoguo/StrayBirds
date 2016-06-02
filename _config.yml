@@ -123,7 +123,7 @@ safe: false
 highlighter: pygments
 title: IceBowstring
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: midnight
+theme: kunka
 disqusname: elvisup
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
