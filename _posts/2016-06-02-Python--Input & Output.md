@@ -49,6 +49,7 @@ hello yahui ! nice !
 ```
 
 print()打印整数:
+
 ```
 >>> print(300 + 200)
 500
@@ -60,6 +61,7 @@ print()打印整数:
 #####Input
 
 使用input()输入一个字符串，并且保存到一个变量中:
+
 ```
 >>> my_name = input()
 elvis
@@ -73,6 +75,7 @@ elvis
 上面的input()执行之后，没有任何提示，当你输入my_name = input()并敲回车之后，命令行就处于等待用户输入的状态，等输入完毕之后，回到 >>> 状态.
 
 我们可以在input中加入一些字符，提示用户输入:
+
 ```
 >>> my_name = input('Input your name: ' )
 Input your name: elvis
@@ -82,6 +85,7 @@ hello, elvis
 ```
 
 也可以使用文件的方式，将python写入以*.py结尾的文件中:
+
 ```
 #!/usr/bin/python3
 #file: python-input.py
@@ -91,6 +95,7 @@ print("hello," ,my_name)
 ```
 
 执行结果:
+
 ```
 elvis@T430:~/github/python$ ./python-input.py
 Input your name: elvis
