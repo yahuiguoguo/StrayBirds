@@ -17,6 +17,7 @@ comments: true
 
 [代码来源](http://www.pythonclub.org/python-basic/raw-input)
 
+---
 
 - 输入字符串
 
