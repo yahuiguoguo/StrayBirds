@@ -123,7 +123,7 @@ safe: false
 highlighter: pygments
 title: 王小宝
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: time-machine
+theme: kunka
 disqusname: yahuiguoguo
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
